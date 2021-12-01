@@ -55,7 +55,7 @@
                             <h3>ADD TASK</h3>
                             <form method="post">
                                 <div class="form-group mb-3">
-                                    <input type="text" class="form-control" name="name_task" placeholder="input your task">
+                                    <input type="text" class="form-control" name="name_task" placeholder="input your task" autocomplete="off">
                                 </div>
                                 <div class="d-grid gap-2 mb-2">
                                     <button type="submit" name="add_task" class="btn btn-success me-md-2">Add Task</button>
